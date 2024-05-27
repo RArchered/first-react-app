@@ -9,7 +9,8 @@
 /coverage
 
 # production
-/build
+# build内容暂时上传
+# /build
 
 # misc
 .DS_Store
